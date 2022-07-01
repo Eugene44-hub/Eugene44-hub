@@ -37,7 +37,7 @@
  
  
 <!--  TOP LANGUAGES STATISTICS -->
- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Eugene44-hub&theme=dark&layout=compact&align=right&width=40%)](https://github.com/anuraghazra/github-readme-stats)
+ [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Eugene44-hub&theme=dark&layout=compact&align=center&width=100%)](https://github.com/anuraghazra/github-readme-stats)
  
  ---
  
@@ -47,7 +47,7 @@
 
 
 <!-- GITHUB STATISTICS -->
- ![Github stats](https://github-readme-stats.vercel.app/api?username=Eugene44-hub)  
+![My github stats](https://github-readme-stats.vercel.app/api?username=Eugene44-hub&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515&count_private=true&width=40%&align=center) 
  
  
  <hr>
@@ -67,11 +67,6 @@
   </code>
 </p>
 
-
+<!-- 
 ![My github stats](https://github-readme-stats.vercel.app/api?username=Eugene44-hub&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515&count_private=true&width=40%&align=left) 
-<center><img src="https://www.altalab.it/wp-content/uploads/2018/10/green-matrix-background-2560x1600-wallpaper.jpg" align="right" width="30%"></center>
-
-
-
-
-
+<center><img src="https://www.altalab.it/wp-content/uploads/2018/10/green-matrix-background-2560x1600-wallpaper.jpg" align="right" width="100%"></center> -->
