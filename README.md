@@ -43,7 +43,7 @@
  
 <!--  PROFILES VIEWS -->
 🌱 **Profile Views**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-![visitors](https://profile-counter.glitch.me/ritikumariupadhyay24/count.svg?align=center)
+![visitors](https://profile-counter.glitch.me/Eugene44-hub/count.svg?align=center)
 
 
 <!-- GITHUB STATISTICS -->
