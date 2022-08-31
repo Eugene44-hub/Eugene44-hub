@@ -79,6 +79,7 @@ style="vertical-align:top; margin: 4px">
 <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/graphql-colored.svg" width="36" height="36" alt="GraphQL" />
 <img src="https://iconape.com/wp-content/png_logo_vector/jest-logo.png" width="40" height="40" alt="Jest" />
 <img src="https://pbs.twimg.com/media/Ex9qGEFVIAcd_s-.png" width="40" height="40" alt="websocket" />
+<a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" /></a>
 </p>
 
 
