@@ -78,9 +78,8 @@ style="vertical-align:top; margin: 4px">
 style="vertical-align:top; margin: 4px">
 <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/graphql-colored.svg" width="40" height="40" alt="GraphQL" />
 <img src="https://iconape.com/wp-content/png_logo_vector/jest-logo.png" width="40" height="40" alt="Jest" />
-
-<a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="40" height="40" alt="Figma" /></a>
-<a href="https://mui.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/materialui-colored.svg" width="40" height="40" alt="Material UI" /></a>
+<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="40" height="40" alt="Figma" />
+<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/materialui-colored.svg" width="40" height="40" alt="Material UI" />
 </p>
 
 
